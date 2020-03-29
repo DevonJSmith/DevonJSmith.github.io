@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devon Smith RSS Feed]]></title><description><![CDATA[Developer | Designer | Tinkerer]]></description><link>https://devonjsmith.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Nov 2019 00:14:40 GMT</lastBuildDate><item><title><![CDATA[Steam Achievements Tracker]]></title><description><![CDATA[A simple mobile app made with the Flutter framework and the Steam API]]></description><link>https://devonjsmith.github.io/blog/steam-achievements-tracker</link><guid isPermaLink="false">https://devonjsmith.github.ioblog/steam-achievements-trackerSteam Achievements Tracker</guid><dc:creator><![CDATA[dsmith]]></dc:creator><pubDate>Sun, 08 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;placeholder text&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devon Smith RSS Feed]]></title><description><![CDATA[Developer | Designer | Tinkerer]]></description><link>https://devonjsmith.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Mar 2020 00:08:18 GMT</lastBuildDate><item><title><![CDATA[Steam Achievements Tracker]]></title><description><![CDATA[A simple mobile app made with the Flutter framework and the Steam API]]></description><link>https://devonjsmith.github.io/blog/steam-achievements-tracker</link><guid isPermaLink="false">https://devonjsmith.github.ioblog/steam-achievements-trackerSteam Achievements Tracker</guid><dc:creator><![CDATA[dsmith]]></dc:creator><pubDate>Sun, 08 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[image of list]  &lt;/p&gt;
+&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The Steam Achievements Tracker is a mobile application built using the Flutter framework (and Dart language) and the Steam public API.&lt;/p&gt;
+&lt;p&gt;The application shows a list of Steam games owned by the User, in descending order of percentage of Achievements completed.&lt;/p&gt;
+&lt;p&gt;[image of list]&lt;/p&gt;
+&lt;p&gt;If the User selects one of the games from the list, another screen with a list of all achievements for that game is displayed:&lt;/p&gt;
+&lt;p&gt;[image of achievements list]&lt;/p&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Before going any further, I&apos;d like to step back and bit and supply some background information. &lt;/p&gt;
+&lt;h3&gt;Steam and Achievements&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://store.steampowered.com/&quot;&gt;Steam&lt;/a&gt; is a digital store for video games owned and operated by Valve Corporation. Beyond being just a digital storefront, the service also includes &lt;/p&gt;
+&lt;h3&gt;Badge Progress&lt;/h3&gt;
+&lt;h3&gt;Achievement Hunting&lt;/h3&gt;
+&lt;h2&gt;Proposed Solution&lt;/h2&gt;
+&lt;h3&gt;Dart and Flutter&lt;/h3&gt;
+&lt;h3&gt;Steam API&lt;/h3&gt;
+&lt;h4&gt;Web API endpoints&lt;/h4&gt;
+&lt;h1&gt;Usage Examples&lt;/h1&gt;
+&lt;h2&gt;Entering&lt;/h2&gt;
+&lt;h1&gt;Obstacles&lt;/h1&gt;
+&lt;h2&gt;Asynchronous behavior&lt;/h2&gt;
+&lt;h1&gt;Future Considerations&lt;/h1&gt;
+&lt;h2&gt;Performance Improvements&lt;/h2&gt;
+&lt;h2&gt;Caching&lt;/h2&gt;
+&lt;h2&gt;Extended Features&lt;/h2&gt;
+&lt;h3&gt;Push Notifications&lt;/h3&gt;
+&lt;h3&gt;Global statistics&lt;/h3&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;</content:encoded></item></channel></rss>
