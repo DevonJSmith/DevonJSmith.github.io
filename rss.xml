@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devon Smith RSS Feed]]></title><description><![CDATA[Developer | Designer | Tinkerer]]></description><link>https://devonjsmith.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Mar 2020 16:24:33 GMT</lastBuildDate><item><title><![CDATA[Lootbox Simulator]]></title><description><![CDATA[An Angular application that generates lootbox items with random seeds]]></description><link>https://devonjsmith.github.io/blog/lootbox-simulator</link><guid isPermaLink="false">https://devonjsmith.github.ioblog/lootbox-simulatorLootbox Simulator</guid><dc:creator><![CDATA[dsmith]]></dc:creator><pubDate>Mon, 30 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;LootboxSimulator&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Devon Smith RSS Feed]]></title><description><![CDATA[Developer | Designer | Tinkerer]]></description><link>https://devonjsmith.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Mar 2020 17:21:20 GMT</lastBuildDate><item><title><![CDATA[Lootbox Simulator]]></title><description><![CDATA[An Angular application that generates lootbox items with random seeds]]></description><link>https://devonjsmith.github.io/blog/lootbox-simulator</link><guid isPermaLink="false">https://devonjsmith.github.ioblog/lootbox-simulatorLootbox Simulator</guid><dc:creator><![CDATA[dsmith]]></dc:creator><pubDate>Mon, 30 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;LootboxSimulator&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/DevonJSmith/lootbox-simulator&quot;&gt;Github Link&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This project is an Angular Single-Page Application based on the concept of &quot;lootboxes&quot;, random virtual rewards commonly found in video games. The goal of this project is to recreate the anticipation and uniqueness of opening such a reward with interesting random items.&lt;/p&gt;
@@ -13,7 +13,7 @@
 &lt;p&gt;Libraries / npm Packages&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/marak/Faker.js/&quot;&gt;Faker.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/lorem-picsum&quot;&gt;Lorem Picsum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://picsum.photos/&quot;&gt;Lorem Picsum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/angular/flex-layout&quot;&gt;Angular Flex-Layout&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/ngx-clipboard&quot;&gt;ngx-clipboard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
