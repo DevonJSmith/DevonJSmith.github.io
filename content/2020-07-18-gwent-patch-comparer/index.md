@@ -1,5 +1,5 @@
 # Gwent Patch Comparison Tool
-A React Single-Page Application that allows users to compare cards from the virtual game card [Gwent](https://www.playgwent.com/en/) across different patch versions.
+A React Single-Page Application that allows users to compare cards from the virtual game card [Gwent](https://www.playgwent.com/en/) across different patch versions..
 
 ## Technologies Leveraged
 - [ReactJS](https://reactjs.org/)
