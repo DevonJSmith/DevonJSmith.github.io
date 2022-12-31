@@ -9,7 +9,7 @@ excerpt: A simple mobile app made with the Flutter framework and the Steam API
 
 [image of list]  
 # Introduction
-The Steam Achievements Tracker is a mobile application built using the Flutter framework (and Dart language) and the Steam public API.
+The Steam Achievements Tracker is a mobile application built using the Flutter framework (and Dart language) and the Steam public API...
 
 The application shows a list of Steam games owned by the User, in descending order of percentage of Achievements completed.
 
