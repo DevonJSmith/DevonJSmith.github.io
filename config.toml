@@ -1,0 +1,11 @@
+baseURL = 'https://blog.djamessmith03.repl.co/'
+languageCode = 'en-us'
+title = 'Devon Smith - Portfolio'
+theme = "binario"
+[Params]
+  columns = 2
+  description = "Portfolio"
+[Params.Entry]
+  meta = ["date", "categories", "tags"]
+[Params.Breadcrumb]
+  enable = true

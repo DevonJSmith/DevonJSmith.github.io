@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>i18n on Devon Smith - Portfolio</title>
+    <link>https://blog.djamessmith03.repl.co/tags/i18n/</link>
+    <description>Recent content in i18n on Devon Smith - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.djamessmith03.repl.co/tags/i18n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lootbox Sm</title>
+      <link>https://blog.djamessmith03.repl.co/posts/lootbox-simulator/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.djamessmith03.repl.co/posts/lootbox-simulator/</guid>
+      <description>LootboxSimulator Github Link
+Introduction This project is an Angular Single-Page Application based on the concept of &amp;ldquo;lootboxes&amp;rdquo;, random virtual rewards commonly found in video games. The goal of this project is to recreate the anticipation and uniqueness of opening such a reward with interesting random items.
+A working demo of this project can be found here.
+Technologies Leveraged  Angular v9.x Material UI Libraries / npm Packages  Faker.js Lorem Picsum Angular Flex-Layout ngx-clipboard    Core Functionality In a typical use case, the user will navigate to the root of the application (ex: https://devonjsmith.</description>
+    </item>
+    
+  </channel>
+</rss>
