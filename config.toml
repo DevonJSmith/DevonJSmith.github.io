@@ -1,4 +1,4 @@
-baseURL = 'https://blog.djamessmith03.repl.co/'
+baseURL = 'https://devonjsmith.github.io/'
 languageCode = 'en-us'
 title = 'Devon Smith - Portfolio'
 theme = "binario"
